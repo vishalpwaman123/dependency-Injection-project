@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Dependency_Injection.Controllers.TaskController",
+    "Method": "GetTaskGuid",
+    "RelativePath": "api/Task",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
